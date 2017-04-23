@@ -1,0 +1,6 @@
+c:\users\слава\documents\visual studio 2017\Projects\pr7\pr7\bin\Debug\pr7.exe.config
+c:\users\слава\documents\visual studio 2017\Projects\pr7\pr7\bin\Debug\pr7.exe
+c:\users\слава\documents\visual studio 2017\Projects\pr7\pr7\bin\Debug\pr7.pdb
+c:\users\слава\documents\visual studio 2017\Projects\pr7\pr7\obj\Debug\pr7.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2017\Projects\pr7\pr7\obj\Debug\pr7.exe
+c:\users\слава\documents\visual studio 2017\Projects\pr7\pr7\obj\Debug\pr7.pdb
