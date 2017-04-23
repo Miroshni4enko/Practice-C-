@@ -1,0 +1,10 @@
+x=1    z=NaN
+x=2    z=NaN
+x=3    z=NaN
+x=4    z=NaN
+x=5    z=NaN
+x=6    z=NaN
+x=7    z=NaN
+x=8    z=NaN
+x=9    z=NaN
+x=10    z=NaN
