@@ -8,14 +8,16 @@ namespace pr2
 {
     class Program
     {
-        static private String forConvert;
+        static int GetField(String textForUser)
+        {
+            Console.Write(textForUser);
+            return Convert.ToInt32(Console.ReadLine());
+        }
         static int[,] createAndFillMass(int column, int line) {
             int[,] massToFill = new int[column, line];           
             for (int c = 0; c<column;c++) {
                 for (int l = 0; l < line; l++) {
-                    Console.Write("el mass = ");
-                    forConvert = Console.ReadLine();
-                    massToFill[c, l] = Convert.ToInt32(forConvert);
+                    massToFill[c, l] = GetField("el mass = ");
                 }    
                 
             }
@@ -24,10 +26,8 @@ namespace pr2
 
         static int[] createAndFillVector(int column) {
             int[] vector = new int[column];
-            for (int l = 0; l < column; l++){
-                Console.Write("el vectora = ");
-                forConvert = Console.ReadLine();
-                vector[l] = Convert.ToInt32(forConvert);
+            for (int c = 0; c < column; c++){
+                vector[c] = GetField("el vectora = ");
             }
             return vector;
         }
@@ -53,13 +53,9 @@ namespace pr2
         {
             int column, line;
             Console.WriteLine("Task1");
-            Console.WriteLine("Enter number of colum");
-            forConvert = Console.ReadLine();
-            column = Convert.ToInt32(forConvert);
 
-            Console.WriteLine("Enter number of line");
-            forConvert = Console.ReadLine();
-            line = Convert.ToInt32(forConvert);
+            column = GetField("Enter number of colum");
+            line = GetField("Enter number of line");
 
             Console.WriteLine("Fill mass");
             int[,] mass = createAndFillMass(column, line);
@@ -95,19 +91,14 @@ namespace pr2
             {
                 Console.Write("el =" + i);
             }
-            Console.WriteLine();
         }
         static void executeTask2()
         {
             int column, line;
-            Console.WriteLine("Task1");
-            Console.WriteLine("Enter number of colum");
-            forConvert = Console.ReadLine();
-            column = Convert.ToInt32(forConvert);
 
-            Console.WriteLine("Enter number of line");
-            forConvert = Console.ReadLine();
-            line = Convert.ToInt32(forConvert);
+            Console.WriteLine("Task2");
+            column = GetField("Enter number of colum");
+            line = GetField("Enter number of line");
 
             Console.WriteLine("Fill mass");
             int[,] mass = createAndFillMass(column, line);
