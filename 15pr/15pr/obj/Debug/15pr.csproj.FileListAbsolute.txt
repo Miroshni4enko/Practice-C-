@@ -1,0 +1,9 @@
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\bin\Debug\15pr.exe.config
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\bin\Debug\15pr.exe
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\bin\Debug\15pr.pdb
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\obj\Debug\15pr.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\obj\Debug\_15pr.Form1.resources
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\obj\Debug\_15pr.Properties.Resources.resources
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\obj\Debug\15pr.csproj.GenerateResource.Cache
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\obj\Debug\15pr.exe
+c:\users\слава\documents\visual studio 2017\Projects\15pr\15pr\obj\Debug\15pr.pdb
