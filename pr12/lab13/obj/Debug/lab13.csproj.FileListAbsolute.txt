@@ -1,6 +1,0 @@
-D:\Programming\lab13\lab13\bin\Debug\lab13.exe.config
-D:\Programming\lab13\lab13\bin\Debug\lab13.exe
-D:\Programming\lab13\lab13\bin\Debug\lab13.pdb
-D:\Programming\lab13\lab13\obj\Debug\lab13.csprojResolveAssemblyReference.cache
-D:\Programming\lab13\lab13\obj\Debug\lab13.exe
-D:\Programming\lab13\lab13\obj\Debug\lab13.pdb

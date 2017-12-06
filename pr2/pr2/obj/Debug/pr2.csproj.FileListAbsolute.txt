@@ -1,6 +1,0 @@
-C:\Users\Слава\Documents\Visual Studio 2017\Projects\pr2\pr2\bin\Debug\pr2.exe.config
-C:\Users\Слава\Documents\Visual Studio 2017\Projects\pr2\pr2\bin\Debug\pr2.exe
-C:\Users\Слава\Documents\Visual Studio 2017\Projects\pr2\pr2\bin\Debug\pr2.pdb
-C:\Users\Слава\Documents\Visual Studio 2017\Projects\pr2\pr2\obj\Debug\pr2.csprojResolveAssemblyReference.cache
-C:\Users\Слава\Documents\Visual Studio 2017\Projects\pr2\pr2\obj\Debug\pr2.exe
-C:\Users\Слава\Documents\Visual Studio 2017\Projects\pr2\pr2\obj\Debug\pr2.pdb

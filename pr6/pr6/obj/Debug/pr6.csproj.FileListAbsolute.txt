@@ -1,6 +1,0 @@
-c:\users\слава\documents\visual studio 2017\Projects\pr6\pr6\bin\Debug\pr6.exe.config
-c:\users\слава\documents\visual studio 2017\Projects\pr6\pr6\bin\Debug\pr6.exe
-c:\users\слава\documents\visual studio 2017\Projects\pr6\pr6\bin\Debug\pr6.pdb
-c:\users\слава\documents\visual studio 2017\Projects\pr6\pr6\obj\Debug\pr6.csprojResolveAssemblyReference.cache
-c:\users\слава\documents\visual studio 2017\Projects\pr6\pr6\obj\Debug\pr6.exe
-c:\users\слава\documents\visual studio 2017\Projects\pr6\pr6\obj\Debug\pr6.pdb

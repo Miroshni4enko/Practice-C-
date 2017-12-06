@@ -1,6 +1,0 @@
-c:\users\слава\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
-c:\users\слава\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
-c:\users\слава\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
-c:\users\слава\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
-c:\users\слава\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
-c:\users\слава\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb

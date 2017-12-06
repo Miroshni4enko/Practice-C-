@@ -1,9 +1,0 @@
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\bin\Debug\16pr.exe.config
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\bin\Debug\16pr.exe
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\bin\Debug\16pr.pdb
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\obj\Debug\16pr.csprojResolveAssemblyReference.cache
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\obj\Debug\_16pr.Form1.resources
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\obj\Debug\_16pr.Properties.Resources.resources
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\obj\Debug\16pr.csproj.GenerateResource.Cache
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\obj\Debug\16pr.exe
-c:\users\слава\documents\visual studio 2017\Projects\16pr\16pr\obj\Debug\16pr.pdb
